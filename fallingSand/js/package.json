@@ -1,0 +1,15 @@
+{
+  "name": "fallingsand",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-gtk": "^0.14.0",
+    "node-gyp": "^10.2.0"
+  }
+}
